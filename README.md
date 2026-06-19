@@ -115,6 +115,14 @@ O algoritmo Random Forest apresentou o melhor desempenho entre os modelos avalia
 
 ---
 
+## 🔗 Notebook
+
+O notebook completo pode ser acessado em:
+
+`notebook/Cap3_Seeds_Classification.ipynb`
+
+---
+
 ## 🚀 Otimização
 
 Foi utilizada a técnica GridSearchCV para otimização do modelo Random Forest.
@@ -134,6 +142,14 @@ Melhor score obtido:
 ```text
 0.9055
 ```
+
+---
+
+## ✅ Conclusão
+
+O algoritmo Random Forest apresentou o melhor desempenho entre os modelos avaliados, alcançando aproximadamente 92% de acurácia após o processo de treinamento e otimização.
+
+Os resultados demonstram que técnicas de Machine Learning podem ser utilizadas para automatizar a classificação de variedades de trigo com elevada precisão.
 
 ---
 
